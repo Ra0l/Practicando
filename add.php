@@ -11,6 +11,8 @@ Website		 : http://www.obedalvarado.pw
 Blog         : http://obedalvarado.pw/blog/
 Email	 	 : info@obedalvarado.pw
 -->
+
+<!-- Habla raul -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
