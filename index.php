@@ -1,6 +1,7 @@
 <?php
 include("conexion.php");
-?>
+// ?>
+<!-- Habla mascota de mirda -->
 <!DOCTYPE html>
 <html lang="es">
 <head>
